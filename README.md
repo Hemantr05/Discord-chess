@@ -6,15 +6,17 @@ Allows machine learning to decide moves
 
 ### If you want to use the stockfish chessbot 
 
-Download stockfish bot
+1. Open terminal and clone this repository to desired directory location
+
+2. Download stockfish bot
 
 `wget https://www.dropbox.com/sh/75gzfgu7qo94pvh/AACk_w5M94GTwwhSItCqsemoa/Stockfish%205/stockfish-5-linux.zip`
 
-Unzip the stockfish bot
+3. Unzip the stockfish bot
 
 `unzip ./stockfish-5-linux.zip`
 
-Change permissions
+4. Change permissions
 
 `chmod +x stockfish-5-linux/Linux/stockfish_14053109_x64`
 
