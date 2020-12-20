@@ -1,6 +1,6 @@
 from chessbot.command import *
 import chess.polyglot
-
+import chess
 
 def evaluate_board():
     
